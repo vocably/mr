@@ -1,0 +1,4 @@
+hello
+greetings
+hi
+salutations
